@@ -4,7 +4,8 @@ I mostly code stuff for myself or things that I made which could be useful for t
 * https://github.com/Evaguy/Score-Search
 
 ## Projects I probably plan to work on
-* Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly ranked map have an amount of score you want to farm. With a bunch of filters, etc...
+* Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly osu! ranked map have an amount of score you want to farm. With a bunch of filters, etc...
+* National Leaderboard Clear Bot : Another Discord bot that, when call using a command, shows a bunch of osu! map which doesn't have a score on the national leaderboard. Tried once but gave up.
 * mus1c_v1sual1zer : As the name implies. Could be fun to try and make it
 
 ## Graveyard
