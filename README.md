@@ -1,4 +1,12 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Evaguy&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+# hi, it's Eva_guy
+I mostly code stuff for myself or things that I made which could be useful for the next person.
+## Projects I'm currently working on
+* https://github.com/Evaguy/Score-Search
 
-- IT Student that makes programs in various languages
-- "It's always DNS" :-)
+## Projects I probably plan to work on
+* Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly ranked map have an amount of score you want to farm. With a bunch of filters, etc...
+
+## Graveyard
+* https://github.com/Evaguy/getChannelName
+
+* https://github.com/Evaguy/129_Cheatsheet
