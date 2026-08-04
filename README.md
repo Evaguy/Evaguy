@@ -5,6 +5,7 @@ I mostly code stuff for myself or things that I made which could be useful for t
 
 ## Projects I probably plan to work on
 * Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly ranked map have an amount of score you want to farm. With a bunch of filters, etc...
+* mus1c_v1sual1zer : As the name implies. Could be fun to try and make it
 
 ## Graveyard
 * https://github.com/Evaguy/getChannelName
