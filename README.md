@@ -3,6 +3,7 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 ## Projects I'm currently working on
 * https://github.com/Evaguy/Score-Calculator
 * https://github.com/Evaguy/Score-Rank
+* https://github.com/Evaguy/SlidersDB
 
 ## Projects I probably plan to work on
 * Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly osu! ranked map have an amount of score you want to farm. With a bunch of filters, etc...
@@ -11,8 +12,6 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 * mus1c_v1sual1zer : As the name implies. Could be fun to try and make it.
 * Eg_Reverb : A reverb VST plugin.
 * Eg_Old_Tapes : VST plugin that transform any sound into the sound of vintage cassette tapes.
-* Eva_guy's Sliders DB : Database of a bunch of sliders I've made when I mapped and how to recreate them. Still don't know if I'll do it here or somewhere else...
-
 
 ## Graveyard
 * https://github.com/Evaguy/getChannelName
