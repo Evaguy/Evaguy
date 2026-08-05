@@ -8,6 +8,7 @@ I mostly code stuff for myself or things that I made which could be useful for t
 * National Leaderboard Clear Bot : Another Discord bot that, when call using a command, shows a bunch of osu! map which doesn't have a score on the national leaderboard. Tried once but gave up.
 * mus1c_v1sual1zer : As the name implies. Could be fun to try and make it.
 * Eg_Reverb : A reverb VST plugin.
+* Eg_Old_Tapes : VST plugin that transform any sound into the sound of vintage cassette tapes.
 
 ## Graveyard
 * https://github.com/Evaguy/getChannelName
