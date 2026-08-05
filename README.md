@@ -1,5 +1,5 @@
 # hi, it's Eva_guy
-I mostly code stuff for myself or things that I made which could be useful for the next person.
+I build stuff for myself and hopefully for the next person too.
 ## Projects I'm currently working on
 * https://github.com/Evaguy/Score-Search
 * https://github.com/Evaguy/Score-Rank
