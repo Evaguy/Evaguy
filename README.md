@@ -1,7 +1,7 @@
 # hi, it's Eva_guy
 I mostly build stuff for myself and hopefully it is useful for the next person too.
 ## Projects I'm currently working on
-* https://github.com/Evaguy/Score-Search
+* https://github.com/Evaguy/Score-Calculator
 * https://github.com/Evaguy/Score-Rank
 
 ## Projects I probably plan to work on
