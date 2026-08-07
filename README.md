@@ -6,6 +6,7 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 * https://github.com/Evaguy/SlidersDB
 * https://github.com/Evaguy/BlackAndWhiteConverter
 * https://github.com/Evaguy/AmenRandomiser
+* https://github.com/Evaguy/GenerativeAmbientPads
 
 ## Projects I probably plan to work on
 * Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly osu! ranked map have an amount of score you want to farm. With a bunch of filters, etc...
