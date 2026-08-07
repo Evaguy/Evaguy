@@ -14,6 +14,7 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 * mus1c_v1sual1zer : As the name implies. Could be fun to try and make it.
 * Eg_Reverb : A reverb VST plugin.
 * Eg_Old_Tapes : VST plugin that transform any sound into the sound of vintage cassette tapes.
+* SCDistributionAutoFill : Tool that autofills SoundCloud's Distribution thingy. I've realize that I spend way too much time writing the same shit over and over again when I try to distribute music onto music platforms. So, maybe a tool that autofill most of the fields for me would be great.
 
 ## Graveyard
 * https://github.com/Evaguy/getChannelName
