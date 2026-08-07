@@ -7,6 +7,7 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 * https://github.com/Evaguy/BlackAndWhiteConverter
 * https://github.com/Evaguy/AmenRandomiser
 * https://github.com/Evaguy/GenerativeAmbientPads
+* https://github.com/Evaguy/SCDistributionAutoFill
 
 ## Projects I probably plan to work on
 * Score Bot (gotta find a better name for this) : A Discord bot that notifies you when a newly osu! ranked map have an amount of score you want to farm. With a bunch of filters, etc...
@@ -15,7 +16,6 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 * mus1c_v1sual1zer : As the name implies. Could be fun to try and make it.
 * Eg_Reverb : A reverb VST plugin.
 * Eg_Old_Tapes : VST plugin that transform any sound into the sound of vintage cassette tapes.
-* SCDistributionAutoFill : Tool that autofills SoundCloud's Distribution thingy. I've realize that I spend way too much time writing the same shit over and over again when I try to distribute music onto music platforms. So, maybe a tool that autofill most of the fields for me would be great.
 
 ## Graveyard
 * https://github.com/Evaguy/getChannelName
