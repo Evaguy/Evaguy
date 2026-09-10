@@ -3,7 +3,6 @@ I mostly build stuff for myself and hopefully it is useful for the next person t
 ## Projects I'm currently working on
 * https://github.com/Evaguy/Score-Calculator
 * https://github.com/Evaguy/Score-Rank
-* https://github.com/Evaguy/SlidersDB
 * https://github.com/Evaguy/BlackAndWhiteConverter
 * https://github.com/Evaguy/AmenRandomiser
 * https://github.com/Evaguy/GenerativeAmbientPads
